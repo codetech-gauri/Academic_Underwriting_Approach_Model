@@ -44,4 +44,6 @@
 
   </pre>
 
+  ![Alt text](https://github.com/codetech-gauri/Academic_Underwriting_Approach_Model/blob/1fd20e2b98563e07f15865385a473a8478f9be62/Screenshot%20FPS.png)
+
   
